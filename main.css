@@ -1,0 +1,64 @@
+html {
+    
+    background: url(Cloud.png) left bottom no-repeat;
+    background-color: #1ba0ef;
+    color: white;
+}
+
+body {
+    width: 800px;
+    margin: 50px 100px 50px 100px;
+    font-family: arial;
+}
+
+p {
+    margin-bottom: 35px;
+    font-size: 13px;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+a {
+    color: white;
+}
+
+.outer_container {
+    display: flex;  
+    flex-direction: row;
+}
+.left_p {
+    width: 380px;
+    margin-right: 20px;
+}
+
+.right_p {
+    width: 380px;
+    margin-left: 20px;
+}
+
+img {
+    width: 55px;
+    height: 55px;
+    margin-right: 20px;
+}
+
+.down_p {
+    width: 725px;
+}
+
+hr {
+    margin-top: 80px;
+    border-color: white;
+    margin-bottom: 35px;
+}
+
+#credits {
+    margin-bottom: 20px; 
+}
+
+#php_result {
+    height: 30px;
+}
